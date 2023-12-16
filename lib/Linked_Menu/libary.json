@@ -1,0 +1,13 @@
+{
+    "name": "meu",
+    "keywords": "a linked list menu",
+    "description": "a linked list menu",
+
+    "frameworks": "arduino",
+    "platforms":
+    [
+      "atmelavr",
+      "espressif8266"
+    ]
+  }
+  
