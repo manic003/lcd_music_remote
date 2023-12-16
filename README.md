@@ -1,6 +1,6 @@
 # MQTT-Smarthome-Remote with LCD Display
 
-![grafik](./IMG_0329.jpg)
+<img src="./IMG_0329.jpg" alt="" style="width:50%; height:auto;">
 
 ## ENGLISH VERSION BELOW
 
@@ -42,6 +42,4 @@
 
 
 of course, if you read so far you probably want to see it in action. Here you go :)
-
-![](video.MOV)
-
+[![preview_video](./preview_video.jpg)](https://github.com/manic003/lcd_music_remote/blob/main/video.MOV)
