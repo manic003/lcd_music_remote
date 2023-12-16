@@ -40,3 +40,8 @@
 - in the running code you can only choose between 4 randomly selected playlists by pressing a button
   
 
+
+of course you want to see it in action :)
+
+![](video.mov)
+
