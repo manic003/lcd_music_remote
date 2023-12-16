@@ -41,7 +41,7 @@
   
 
 
-of course you want to see it in action :)
+of course, if you read so far you probably want to see it in action. Here you go :)
 
-![](video.mov)
+![](video.MOV)
 
