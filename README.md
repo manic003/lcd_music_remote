@@ -42,4 +42,4 @@
 
 
 of course, if you read so far you probably want to see it in action. Here you go :)
-[![preview_video](./preview_video.jpg)](https://github.com/manic003/lcd_music_remote/blob/main/video.MOV)
+[![preview_video](./preview_video.png)](https://github.com/manic003/lcd_music_remote/blob/main/video.MOV)
